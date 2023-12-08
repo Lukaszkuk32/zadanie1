@@ -1,6 +1,6 @@
 
 
-Informatyka i koputery
+Informatyka i komputery
 ========================
 
 Tworzenie dokumentow na komputerze
@@ -28,6 +28,7 @@ Jednym z działów informatyki jest programowanie
 Związane jest z tworzeniu kodu w linijkach za pomocą języków programowania
 Spośród języków programowania możemy wyróżnić C++ i Python.
 
+Wyróżniamy informatykę:
 
 
 
