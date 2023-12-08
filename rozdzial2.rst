@@ -4,7 +4,7 @@ Do czego służą zdjęcia?
 
 Zdjecia
 Zdjecia pozwalają nam przechowywać wizualnę treści dotyczące różnych wydarzeń czy wspomnień życiowych.
-Są bardzo przydatne do dokumentacji i przekazywaniu infomacji innym osobom 
+Są bardzo przydatne do dokumentacji i przekazywaniu infomacji innym osobom.
 Przykłady zdjęc 
 Zdjęcia osobiste- to zdjęcia prywatne, najczęściej przechowywane we własnym domu.
 Dostęp do niech mają ich właściciele , nie są nikomu udostępniane. 	
@@ -14,7 +14,9 @@ Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
 
 .. figure:: ./img/nazwa_pliku.jpg
    :align: center
-
+.. figure:: ./img/images.jfif
+   :align: center
+Tworzenie różnych fotografii pozwala na 
    Podpis
 
 
