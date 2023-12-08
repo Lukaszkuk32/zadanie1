@@ -27,8 +27,9 @@ Informatyka to dziedzina nauki, ktora dotyczy wszyelkich informacji związanych 
 Kładzie ona nacisk na to, co się robi z informacją (zbiera, przechowuje, przetwarza i 
 udostępnia) oraz przy pomocy czego się to realizuje. Jest także rozumiana jako nośnik ludzkiej wiedzy i komunikacji w dziedzinach 
 technicznych, ekonomicznych i socjalnych.
-Jednym z działów informatyki jest programowanie
-Związane jest z tworzeniu kodu w linijkach za pomocą języków programowania
+Działy informatyki 
+Programowanie - związane jest z tworzeniu kodu w linijkach za pomocą języków programowania.
+
 Spośród języków programowania możemy wyróżnić C++ i Python.
 
 
