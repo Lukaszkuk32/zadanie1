@@ -16,7 +16,8 @@ Plik  .html
 To plik,który zawiera informacje o danych naszej strony internetowej.
 Do jego utworzenia służą różne programy, np. Notepad czy Sphinx
 Tym plikiem możemy dzielić się z innymi, udostępniając lika do swojej strony internetowej.
-
+.. figure:: ./img/pobierz.jfif
+   :align: center
 Inne pliki
 --------------
 
