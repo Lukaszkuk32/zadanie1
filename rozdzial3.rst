@@ -30,3 +30,4 @@ Plik z takim skrótem pozwala na uruchomienie danego programu w komputerze, za p
 
 
 Plik 
+ dfgxvb
