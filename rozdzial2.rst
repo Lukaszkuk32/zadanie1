@@ -16,7 +16,10 @@ Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
    :align: center
 .. figure:: ./img/images.jfif
    :align: center
-Tworzenie różnych fotografii pozwala na 
+
+
+Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emocji twórcy, jego pomysłu i przesłania. Są swego rodzaju medium, za pomocą którego artysta komunikuje się z odbiorcami, chcąc im coś przekazać.
+
    Podpis
 
 
