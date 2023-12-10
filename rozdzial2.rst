@@ -16,11 +16,21 @@ Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
    :align: center
 .. figure:: ./img/images.jfif
    :align: center
-
+Krajobraz 
 
 Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emocji twórcy, jego pomysłu i przesłania. Są swego rodzaju medium, za pomocą którego artysta komunikuje się z odbiorcami, chcąc im coś przekazać.
 
-   Podpis
+.. figure:: ./img/images.jfif
+   :align: center
+Krajobraz 
+
+Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej.
+
+.. figure:: ./img/th.jfif.
+   :align: center
+
+
+Fotografie archiwizacyjne - 
 
 
 
