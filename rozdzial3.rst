@@ -29,5 +29,8 @@ Jednym z nich jest plik .exe
 Plik z takim skrótem pozwala na uruchomienie danego programu w komputerze, za pomocą niego możemy otworzyć to z czego chcialiśmy skorzystać
 
 
-Plik 
- dfgxvb
+Plik PNG (ang. Portable Network Graphics) – rastrowy format plików graficznych oraz system bezstratnej kompresji danych graficznych.
+Format PNG znajduje różne zastosowania. Przewiduje tryby o niskiej ilości kolorów (paletowe od 2 do 256 oraz tryb skali szarości), przydatne w sytuacjach, gdy nadmiarowa informacja jest niewskazana (tj. gdy ważniejsza od subiektywnej wierności oryginałowi jest treść obrazu). Ma także tryb 48-bitowego RGB, w którym można zapisywać obraz w milionach kolorów i bez jakichkolwiek zniekształceń właściwych.
+Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed kompresją, zwiększając jej wydajność. Jest dostępne kilka filtrów (np. różnica między sąsiednimi pikselami/liniami), które są dobierane dla każdej linii pliku z osobna.
+
+
