@@ -36,6 +36,7 @@ Programowanie - związane jest z tworzeniu kodu w linijkach za pomocą języków
 
 Spośród języków programowania możemy wyróżnić C++ i Python.
 Progamowawać można na różne sposoby, gdyż jest to bardzo szeroki dział informatyki, pozwalający tworzy mniej lub bardziej skopmplikowane projekty
+
 Język C++  to jeden z najpopularniejszych języków programowania, szczególnie w branży IT. Został opracowany w 1979 roku przez Bjarne Stroustrupa.
 Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on bardzo blisko struktury danych i procesów zachodzących w komputerze.
 charakteryzuje się  dużą elastycznością i możliwością dostosowania do indywidualnych potrzeb programisty. Jest to możliwe dzięki zastosowaniu mechanizmów takich jak klasy i obiekty oraz funkcje i procedury.
