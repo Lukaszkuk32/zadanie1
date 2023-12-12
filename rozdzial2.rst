@@ -33,7 +33,11 @@ Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają b
 Fotografie archiwizacyjne - służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
 dzięki czemu będzie je można zobaczyć po wielu latach.
 
-Fotografie
+Fotografia reklamowa - zdjęcia mające na celu promować produkty, usługi lub marki.
+
+
+
+
 
 
 
