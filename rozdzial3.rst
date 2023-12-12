@@ -38,3 +38,7 @@ Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed komp
 .. figure:: ./img/images.png
    :align: center
 Logo pliku PNG
+
+Pliki txt- plik występujący w formie tekstu. Najcześciej możemy go znaleźć w programie Notatnik czy też Notepad.
+
+
