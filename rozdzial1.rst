@@ -45,8 +45,9 @@ To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześn
 
 
 
-Algorytmika część informatyki zajmująca się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
+Algorytmika jest częścią informatyki zajmującą się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
 Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wykonania określonego rodzaju zadań, przepis na rozwiązanie problemu, instrukcja na wykonanie czynności. Mówi nam, jakie kroki trzeba wykonać po kolei, żeby otrzymać oczekiwany efekt.
+
 
 
 
