@@ -42,4 +42,7 @@ Logo pliku PNG
 
 Pliki txt- plik występujący w formie tekstu. Najcześciej możemy go znaleźć w programie Notatnik czy też Notepad.
 
+Pliki docx. zawierają informacje o pliku z edytora tekstu takiego jak Word czy Libreoffice.
+Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w obsłudze dzięki prostocie tych programów.
+
 
