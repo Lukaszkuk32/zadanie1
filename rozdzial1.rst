@@ -12,7 +12,7 @@ Tworzenie dokumentu
 
 W tym edytorze chce stworzyć tresci zwiazane z informatyką i nie tylko,  gdyż są to interesujące informacje
 Komputery pozwalaja na wiele dzialan matematycznych,w celach edukacyjnych czy też firmowych.  
-Dzieki niemu możemy uławić sowie naszą codzienną pracę.
+Dzieki niemu możemy sobie ułatwić naszą codzienną pracę.
 
 .. figure:: ./img/obrazek.png
    :align: center
@@ -47,6 +47,8 @@ To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześn
 
 Algorytmika jest częścią informatyki zajmującą się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
 Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wykonania określonego rodzaju zadań, przepis na rozwiązanie problemu, instrukcja na wykonanie czynności. Mówi nam, jakie kroki trzeba wykonać po kolei, żeby otrzymać oczekiwany efekt.
+
+
 
 
 
