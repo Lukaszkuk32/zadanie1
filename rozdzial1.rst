@@ -44,6 +44,7 @@ charakteryzuje się  dużą elastycznością i możliwością dostosowania do in
 To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne.
 
 
+
 Algorytmika część informatyki zajmująca się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
 Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wykonania określonego rodzaju zadań, przepis na rozwiązanie problemu, instrukcja na wykonanie czynności. Mówi nam, jakie kroki trzeba wykonać po kolei, żeby otrzymać oczekiwany efekt.
 
