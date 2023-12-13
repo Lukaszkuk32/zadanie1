@@ -3,6 +3,7 @@ Do czego służą zdjęcia?
 =========================
 
 Zdjecia
+
 Zdjecia pozwalają nam przechowywać wizualnę treści dotyczące różnych wydarzeń czy wspomnień życiowych.
 Są bardzo przydatne do dokumentacji i przekazywaniu infomacji innym osobom.
 Przykłady zdjęc 
