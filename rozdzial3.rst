@@ -8,6 +8,11 @@ Pliki  tekstowe
 W tym rozdziale chciałbym poruszyć temat plików tekstowych
 Pliki teksktowe są nową techologią ostatnich czasów. Pozwoliły nam zastąpić dokumenty papierowe na te pisane cyfrowo.
 Pliki tekstowy to plik, który zawiera informacje o tekście, napisanym na klawiaturze.
+Występują one z skrótem .txt
+Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
+
+.. figure:: ./img/
+   :align: center
 
 
 Plik  .html
@@ -40,7 +45,7 @@ Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed komp
 Logo pliku PNG
 
 
-Pliki txt- plik występujący w formie tekstu. Najcześciej możemy go znaleźć w programie Notatnik czy też Notepad.
+
 
 Pliki docx. zawierają informacje o pliku z edytora tekstu takiego jak Word czy Libreoffice.
 Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w obsłudze dzięki prostocie tych programów.
