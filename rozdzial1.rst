@@ -14,10 +14,9 @@ W tym edytorze chce stworzyć tresci zwiazane z informatyką i nie tylko,  gdyż
 Komputery pozwalaja na wiele dzialan matematycznych,w celach edukacyjnych czy też firmowych.  
 Dzieki niemu możemy sobie ułatwić naszą codzienną pracę.
 
-.. figure:: ./img/obrazek.png
+.. figure:: ./img/OIP.jpg
    :align: center
-
-   Komputer
+Komputer
 
 
 Czym jest informatyka?
