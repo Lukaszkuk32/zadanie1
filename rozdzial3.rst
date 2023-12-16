@@ -45,4 +45,7 @@ Pliki txt- plik występujący w formie tekstu. Najcześciej możemy go znaleźć
 Pliki docx. zawierają informacje o pliku z edytora tekstu takiego jak Word czy Libreoffice.
 Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w obsłudze dzięki prostocie tych programów.
 
+.. figure:: ./img/pobierz.png
+   :align: center
 
+Dokument pliku w np. Wordzie
