@@ -57,11 +57,6 @@ Przykładowy algorytm
 Teoretyczna Informatyka:
 Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
 
-.. figure:: ./img/ th(1).jpg
-   :align: center
-
-Maszyna Turinga
-Źródło:www.timetoast.com
 Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
 
 Teoria informacji: Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
@@ -86,4 +81,5 @@ Bioinformatyka: Łączy informatykę z biologią, szczególnie w analizie danych
 Informatyka medyczna: Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zdrowotnej.
 
 Robotyka: Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
-
+.. figure:: ./img/pobierz.jpg
+   :align: center
