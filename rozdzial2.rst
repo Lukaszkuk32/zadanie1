@@ -15,6 +15,8 @@ Zdjęcia historyczne- zdjęcia przedstawiające pewne wydarzenia historyczne.
 Możemy je znaleźć w książkach czy internecie.
 Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
 
+.. figure:: ./img/
+   :align: center
 
 
 Krajobraz 
@@ -33,6 +35,7 @@ Zdjęcie naukowe
 
 Fotografie archiwizacyjne - służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
 dzięki czemu będzie je można zobaczyć po wielu latach.
+
 
 Fotografia reklamowa - zdjęcia mające na celu promować produkty, usługi lub marki.
 
