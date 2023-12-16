@@ -57,7 +57,7 @@ Przykładowy algorytm
 Teoretyczna Informatyka:
 Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
 
-.. figure:: ./img/th (1).jpg    
+.. figure:: ./img/th(1).jpg    
    :align: center
 
 Maszyna Turinga
