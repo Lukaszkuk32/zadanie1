@@ -81,5 +81,7 @@ Bioinformatyka: Łączy informatykę z biologią, szczególnie w analizie danych
 Informatyka medyczna: Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zdrowotnej.
 
 Robotyka: Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
-.. figure:: ./img/pobierz.jpg
+
+.. figure:: ./img/pobierz robotyka.jpg
    :align: center
+Robotyka
