@@ -12,6 +12,7 @@ Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
 .. figure::  ./img/images(1).png
+
    :align: center
 
 
