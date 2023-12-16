@@ -57,11 +57,10 @@ Przykładowy algorytm
 Teoretyczna Informatyka:
 Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
 
-.. figure:: ./img/turingmaszyna.jpg    Ź ródło:www.timetoast.com
+.. figure:: ./img/turing maszyna.jpg    
    :align: center
-
 Maszyna Turinga
-
+Źródło:www.timetoast.com
 Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
 
 Teoria informacji: Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
