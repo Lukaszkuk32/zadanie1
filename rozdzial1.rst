@@ -52,16 +52,26 @@ Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wyk
 
 Teoretyczna Informatyka:
 Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
+
 Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
+
 Teoria informacji: Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
 
 
 Informatyka Praktyczna:
 
 Bazy danych: Skupia się na projektowaniu, implementacji i zarządzaniu bazami danych.
+
 Sztuczna inteligencja: Zajmuje się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
+
 Machine Learning i Data Science: Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia się.
 
 
+Interdyscyplinarne Obszary:
 
+Bioinformatyka: Łączy informatykę z biologią, szczególnie w analizie danych biologicznych.
+
+Informatyka medyczna: Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zdrowotnej.
+
+Robotyka: Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
 
