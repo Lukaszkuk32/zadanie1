@@ -39,6 +39,7 @@ Progamowawać można na różne sposoby, gdyż jest to bardzo szeroki dział inf
 .. figure:: ./img/th.jpg
    :align: center
 Programowanie
+
 Język C++  to jeden z najpopularniejszych języków programowania, szczególnie w branży IT. Został opracowany w 1979 roku przez Bjarne Stroustrupa.
 Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on bardzo blisko struktury danych i procesów zachodzących w komputerze.
 charakteryzuje się  dużą elastycznością i możliwością dostosowania do indywidualnych potrzeb programisty. Jest to możliwe dzięki zastosowaniu mechanizmów takich jak klasy i obiekty oraz funkcje i procedury.
@@ -49,9 +50,17 @@ To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześn
 Algorytmika jest częścią informatyki zajmującą się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
 Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wykonania określonego rodzaju zadań, przepis na rozwiązanie problemu, instrukcja na wykonanie czynności. Mówi nam, jakie kroki trzeba wykonać po kolei, żeby otrzymać oczekiwany efekt.
 
+Teoretyczna Informatyka:
+Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
+Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
+Teoria informacji: Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
 
 
+Informatyka Praktyczna:
 
+Bazy danych: Skupia się na projektowaniu, implementacji i zarządzaniu bazami danych.
+Sztuczna inteligencja: Zajmuje się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
+Machine Learning i Data Science: Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia się.
 
 
 
