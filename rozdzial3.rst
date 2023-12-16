@@ -61,3 +61,4 @@ Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
 .. figure:: ./img/imagestxt.png
    :align: center
+Plik Txt
