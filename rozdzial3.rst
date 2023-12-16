@@ -14,6 +14,7 @@ Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 .. figure::  ./img/pobierz txt.png
    :align: center
 
+
 Plik txt
 
 Plik  .html
