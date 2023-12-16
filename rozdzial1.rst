@@ -82,12 +82,8 @@ Informatyka medyczna: Skupia się na wykorzystaniu technologii informatycznych w
 
 Robotyka: Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
 
-.. figure:: ./img/R.png
+
+.. figure:: ./img/pobierz.jpg
    :align: center
-
-
-
-
-
 
 Robotyka
