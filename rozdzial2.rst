@@ -18,6 +18,7 @@ Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
 .. figure:: ./img/images.jpg
    :align: center
 Przykład zdjęcia historycznego
+
 Źródło:tychy.info
 Krajobraz 
 
