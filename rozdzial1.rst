@@ -58,7 +58,7 @@ Teoretyczna Informatyka:
 Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
 
 .. figure:: ./img/pobierzturing.jpg
-   :align: center
+   :align: bottom
 
 Maszyna Turinga
 Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
