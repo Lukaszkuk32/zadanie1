@@ -26,6 +26,7 @@ Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emoc
 
 .. figure:: ./img/images.jfif
    :align: center
+
 Krajobraz 
 
 Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej.
@@ -39,6 +40,7 @@ dzięki czemu będzie je można zobaczyć po wielu latach.
 
 
 Fotografia reklamowa - zdjęcia mające na celu promować produkty, usługi lub marki.
+
 
 
 
