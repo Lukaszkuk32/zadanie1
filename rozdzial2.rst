@@ -27,7 +27,7 @@ Krajobraz
 
 Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej.
 
-.. figure:: ./img/th.jfif.
+.. figure:: ./img/th.jfif
    :align: center
 Zdjęcie naukowe
 
