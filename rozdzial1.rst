@@ -35,6 +35,7 @@ Programowanie - związane jest z tworzeniu kodu w linijkach za pomocą języków
 
 Spośród języków programowania możemy wyróżnić C++ i Python.
 Progamowawać można na różne sposoby, gdyż jest to bardzo szeroki dział informatyki, pozwalający tworzy mniej lub bardziej skopmplikowane projekty
+
 .. figure:: ./img/th.jpg
    :align: center
 Programowanie
