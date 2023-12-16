@@ -59,5 +59,5 @@ Plik  tekstowyto plik, który zawiera informacje o tekście, napisanym na klawia
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
-.. figure:: ./img/pobierz.png
+.. figure:: ./img/images.txt.png
    :align: center
