@@ -85,4 +85,5 @@ Robotyka: Łączy informatykę, inżynierię i czasami biologię, by tworzyć i 
 .. figure:: ./img/pobierz robotyka.jpg
     :align: center
 
+
 Robotyka
