@@ -15,10 +15,10 @@ Zdjęcia historyczne- zdjęcia przedstawiające pewne wydarzenia historyczne.
 Możemy je znaleźć w książkach czy internecie.
 Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
 
-.. figure:: ./img/
+.. figure:: ./img/images.jpg
    :align: center
-
-
+Przykład zdjęcia historycznego
+Źródło:tychy.info
 Krajobraz 
 
 Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emocji twórcy, jego pomysłu i przesłania. Są swego rodzaju medium, za pomocą którego artysta komunikuje się z odbiorcami, chcąc im coś przekazać.
