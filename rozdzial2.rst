@@ -31,7 +31,7 @@ Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają b
 
 .. figure:: ./img/th.jfif.
    :align: center
-
+Zdjęcie naukowe
 
 Fotografie archiwizacyjne - służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
 dzięki czemu będzie je można zobaczyć po wielu latach.
