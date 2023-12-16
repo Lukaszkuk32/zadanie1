@@ -11,9 +11,10 @@ Pliki tekstowy to plik, który zawiera informacje o tekście, napisanym na klawi
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
-.. figure:: ./img/
+.. figure:: ./img/pobierz txt.png
    :align: center
 
+Plik txt
 
 Plik  .html
 -------------
