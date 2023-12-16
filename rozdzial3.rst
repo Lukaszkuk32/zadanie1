@@ -11,12 +11,9 @@ Pliki tekstowy to plik, który zawiera informacje o tekście, napisanym na klawi
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
-.. figure:: ./img/pobierz.jfif
-   :align: center
 
 
 
-Plik txt
 
 Plik  .html
 -------------
@@ -57,3 +54,10 @@ Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w ob
    :align: center
 
 Dokument pliku w np. Wordzie
+
+Plik  tekstowyto plik, który zawiera informacje o tekście, napisanym na klawiaturze.
+Występują one z skrótem .txt
+Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
+
+.. figure:: ./img/pobierz.png
+   :align: center
