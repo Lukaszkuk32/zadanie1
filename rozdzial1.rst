@@ -59,7 +59,6 @@ Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modela
 
 .. figure:: ./img/pobierz(1).jpg
    :align: center
-
 Maszyna Turinga
 Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
 
