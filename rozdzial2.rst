@@ -19,7 +19,7 @@ Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
    :align: center
 Przykład zdjęcia historycznego
 
-Źródło:tychy.info
+ Źródło:tychy.info
 Krajobraz 
 
 Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emocji twórcy, jego pomysłu i przesłania. Są swego rodzaju medium, za pomocą którego artysta komunikuje się z odbiorcami, chcąc im coś przekazać.
@@ -47,7 +47,7 @@ Zdjęcia mogą służyć także  jako dowody w sprawach sądowych, pomagając w 
 
 Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
 
-.. figure:: ./img/
+.. figure:: ./img/pobierz architektura.jpg
    :align: center
 
 
