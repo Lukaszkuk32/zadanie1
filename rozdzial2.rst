@@ -50,8 +50,6 @@ Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji
 
 
 
-.. figure:: ./img/pobierzarchitektura.jpg
-   :align: center
 
 Przykład projektowania
 
