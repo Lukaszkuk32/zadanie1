@@ -31,7 +31,8 @@ Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emoc
 Krajobraz 
 
 Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej.
-.. figure:: ./img/images.jfif
+
+.. figure:: ./img/th.jfif
    :align: center
 Zdjęcie naukowe
 
@@ -47,7 +48,7 @@ Zdjęcia mogą służyć także  jako dowody w sprawach sądowych, pomagając w 
 
 Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
 
-.. figure:: ./img/pobierz(1).jpg
+.. figure:: ./img/th.jfif
    :align: center
 
 
