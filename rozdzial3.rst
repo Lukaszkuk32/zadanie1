@@ -62,3 +62,7 @@ Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 .. figure:: ./img/imagestxt.png
    :align: center
 Plik Txt
+
+Pliki danych (.csv, .xml, .json, .xls, .xlsx): Używane do przechowywania i wymiany danych w formacie, który może być łatwo przetworzony przez różne programy.
+
+Pliki obrazów dysków (.iso, .img, .vhd): Zawierają kopię całego dysku lub partycji, często używane do tworzenia kopii zapasowych lub dystrybucji oprogramowania.
