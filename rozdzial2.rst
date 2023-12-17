@@ -48,7 +48,8 @@ Zdjęcia mogą służyć także  jako dowody w sprawach sądowych, pomagając w 
 
 Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
 
-
+.. figure:: ./img/pobierz(1).jpg
+   :align: center
 
 
 Przykład projektowania
