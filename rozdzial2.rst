@@ -42,8 +42,10 @@ dzięki czemu będzie je można zobaczyć po wielu latach.
 Fotografia reklamowa - zdjęcia mające na celu promować produkty, usługi lub marki.
 
 
+Zdjęcia mogą służyć także  jako dowody w sprawach sądowych, pomagając w dochodzeniu prawdy.
 
 
+Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
 
 
 
