@@ -44,9 +44,6 @@ Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed komp
    :align: center
 Logo pliku PNG
 
-
-
-
 Pliki docx. zawierają informacje o pliku z edytora tekstu takiego jak Word czy Libreoffice.
 Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w obsłudze dzięki prostocie tych programów.
 
@@ -66,3 +63,5 @@ Plik Txt
 Pliki danych (.csv, .xml, .json, .xls, .xlsx): Używane do przechowywania i wymiany danych w formacie, który może być łatwo przetworzony przez różne programy.
 
 Pliki obrazów dysków (.iso, .img, .vhd): Zawierają kopię całego dysku lub partycji, często używane do tworzenia kopii zapasowych lub dystrybucji oprogramowania.
+
+Pliki PDF (.pdf): Służą do prezentowania dokumentów w sposób niezależny od oprogramowania, sprzętu i systemów operacyjnych.
