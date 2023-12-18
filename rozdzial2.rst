@@ -41,11 +41,13 @@ Dalsze zastosowania zdjęć
 ------------------------------
 
 Fotografie archiwizacyjne 
+
 Służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
 dzięki czemu będzie je można zobaczyć po wielu latach.
 
 
-Fotografia reklamowa 
+Fotografia reklamowa
+
 Zdjęcia mające na celu promować produkty, usługi lub marki.
 
 Fotografie  mogą służyć także  jako dowody w sprawach sądowych, pomagając w dochodzeniu prawdy.
