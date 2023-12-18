@@ -59,4 +59,6 @@ Dziennikarstwo i media
 
 Fotografia jest kluczowym elementem w przekazywaniu wiadomości i informacji. Zdjęcia w gazetach, magazynach i w Internecie pomagają ilustrować i opowiadać historie.
 
-Służą one również to tworzenia obrazów, które są sprzedawane w celu osiągnięcia zysku 
+Służą one również to tworzenia obrazów, które są sprzedawane w celu osiągnięcia zysku.
+
+
