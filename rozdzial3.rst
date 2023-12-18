@@ -6,7 +6,10 @@ Pliki  tekstowe
 -----------------
 
 W tym rozdziale chciałbym poruszyć temat plików tekstowych
-Pliki teksktowe są nową techologią ostatnich czasów. Pozwoliły nam zastąpić dokumenty papierowe na te pisane cyfrowo.
+Pliki teksktowe są nową techologią ostatnich czasów. 
+Pozwoliły nam zastąpić dokumenty papierowe na te pisane cyfrowo.
+
+
 Pliki tekstowy to plik, który zawiera informacje o tekście, napisanym na klawiaturze.
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
