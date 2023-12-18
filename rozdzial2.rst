@@ -6,7 +6,8 @@ Zdjęcia
 
 Zdjecia pozwalają nam przechowywać wizualnę treści dotyczące różnych wydarzeń czy wspomnień życiowych.
 Są bardzo przydatne do dokumentacji i przekazywaniu infomacji innym osobom.
-Przykłady zdjęc 
+Rodzaje zdjęć
+-----------------
 
 Zdjęcia osobiste- to zdjęcia prywatne, najczęściej przechowywane we własnym domu.
 Dostęp do niech mają ich właściciele , nie są nikomu udostępniane. 	
@@ -36,14 +37,14 @@ Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają b
    :align: center
 Zdjęcie naukowe
 
+Dalsze zastosowania zdjęć
+------------------------------
+
 Fotografie archiwizacyjne - służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
 dzięki czemu będzie je można zobaczyć po wielu latach.
 
 
 Fotografia reklamowa - zdjęcia mające na celu promować produkty, usługi lub marki.
-
-
-Dalsze zastosowania zdjęć
 
 Zdjęcia mogą służyć także  jako dowody w sprawach sądowych, pomagając w dochodzeniu prawdy.
 
@@ -51,4 +52,4 @@ Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji
 
 Dziennikarstwo i media: Fotografia jest kluczowym elementem w przekazywaniu wiadomości i informacji. Zdjęcia w gazetach, magazynach i w Internecie pomagają ilustrować i opowiadać historie.
 
-Służą one także to tworzenia obrazów, która można następnie sprzedawać
+Służą one także to tworzenia obrazów, które są sprzedawane w celu osiągnięcia zysku 
