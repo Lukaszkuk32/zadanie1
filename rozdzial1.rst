@@ -17,7 +17,7 @@ Dzieki niemu możemy sobie ułatwić naszą codzienną pracę.
 .. figure:: ./img/OIP.jpg
    :align: center
 
-Komputer
+   Komputer
 
 
 Czym jest informatyka?
@@ -39,7 +39,8 @@ Programować można na różne sposoby, gdyż jest to bardzo szeroki dział info
 
 .. figure:: ./img/th.jpg
    :align: center
-Jeden z języków programowania
+
+   Jeden z języków programowania
 
 Język C++  to jeden z najpopularniejszych języków programowania, szczególnie w branży IT. Został opracowany w 1979 roku przez Bjarne Stroustrupa.
 Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on bardzo blisko struktury danych i procesów zachodzących w komputerze.
@@ -55,7 +56,7 @@ Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wyk
 .. figure:: ./img/R.png
    :align: center
 
-Przykładowy algorytm
+   Przykładowy algorytm
 
 Teoretyczna Informatyka
 ----------------------------
@@ -86,7 +87,8 @@ Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia s
 
 .. figure:: ./img/pobierz.jpg
    :align: center
-Sztuczna inteligencja AI
+
+   Sztuczna inteligencja AI
 
 Bioinformatyka
 -------------------------

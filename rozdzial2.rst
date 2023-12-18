@@ -23,7 +23,8 @@ Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
 
 .. figure:: ./img/images.jpg
    :align: center
-Przykład zdjęcia historycznego
+
+   Przykład zdjęcia historycznego
 
 Źródło:tychy.info
 
@@ -34,13 +35,14 @@ Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emoc
 .. figure:: ./img/images.jfif
    :align: center
 
-Krajobraz 
+   Krajobraz 
 
 Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej. Często dotyczą różnych zjawisk w przestrzeni czy różnych oberwacji obiektów znajdujących się na niebie czy w kosmosie.
 
 .. figure:: ./img/th.jfif
    :align: center
-Zdjęcie naukowe
+
+   Zdjęcie naukowe
 
 Dalsze zastosowania zdjęć
 ------------------------------

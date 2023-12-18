@@ -21,6 +21,8 @@ Tym plikiem możemy dzielić się z innymi, udostępniając lika do swojej stron
 .. figure:: ./img/pobierz.jfif
    :align: center
 
+   tytul
+
 Inne pliki
 ---------------
 
@@ -39,7 +41,8 @@ Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed komp
 
 .. figure:: ./img/images.png
    :align: center
-Logo pliku PNG
+
+   Logo pliku PNG
 
 Pliki docx. zawierają informacje o pliku z edytora tekstu takiego jak Word czy Libreoffice.
 Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w obsłudze dzięki prostocie tych programów.
@@ -47,7 +50,7 @@ Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w ob
 .. figure:: ./img/pobierz.png
    :align: center
 
-Dokument pliku w np. Wordzie
+   Dokument pliku w np. Wordzie
 
 Plik  tekstowy to plik, który zawiera informacje o tekście, napisanym na klawiaturze.
 Występują one z skrótem .txt
@@ -56,7 +59,7 @@ Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 .. figure:: ./img/imagestxt.png
    :align: center
 
-Plik Txt
+   Plik txt
 
 Pliki danych (.csv, .xml, .json, .xls, .xlsx)
 
