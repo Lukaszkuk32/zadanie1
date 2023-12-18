@@ -31,7 +31,7 @@ technicznych, ekonomicznych i socjalnych.
 
 
 Programowanie
-------------------
+-------------------
 
 Dotyczy  tworzenia kodu w linijkach za pomocą języków programowania.
 Spośród języków programowania możemy wyróżnić C++ i Python.
@@ -46,7 +46,7 @@ Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on b
 charakteryzuje się  dużą elastycznością i możliwością dostosowania do indywidualnych potrzeb programisty. Jest to możliwe dzięki zastosowaniu mechanizmów takich jak klasy i obiekty oraz funkcje i procedury.
 To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne.
 
-Inne zastosowania informatyki
+Algotytmika
 ---------------------------------
 
 Algorytmika jest częścią informatyki zajmującą się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
@@ -58,6 +58,7 @@ Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wyk
 Przykładowy algorytm
 
 Teoretyczna Informatyka
+----------------------------
 
 Teoria obliczeń
 Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
@@ -69,6 +70,7 @@ Teoria informacji
 Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
 
 Informatyka Praktyczna
+------------------------------
 
 Bazy danych
 
@@ -87,6 +89,8 @@ Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia s
 Sztuczna inteligencja AI
 
 Bioinformatyka
+-------------------------
+
 Łączy informatykę z biologią, szczególnie w analizie danych biologicznych.
 
 Informatyka medyczna
