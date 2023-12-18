@@ -10,10 +10,14 @@ Są bardzo przydatne do dokumentacji i przekazywaniu infomacji innym osobom.
 Rodzaje zdjęć
 -----------------
 
-Zdjęcia osobiste- to zdjęcia prywatne, najczęściej przechowywane we własnym domu.
+Zdjęcia osobiste
+
+To zdjęcia prywatne, najczęściej przechowywane we własnym domu.
 Dostęp do niech mają ich właściciele , nie są nikomu udostępniane. 	
 
-Zdjęcia historyczne- zdjęcia przedstawiające pewne wydarzenia historyczne. 
+Zdjęcia historyczne
+
+Przedstawiają pewne wydarzenia historyczne. 
 Możemy je znaleźć w książkach czy internecie.
 Są one objęte prawem autorskim, lecz większośc ludzi ma do nich dostęp.
 
