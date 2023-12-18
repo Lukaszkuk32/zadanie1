@@ -56,10 +56,10 @@ Plik  tekstowy to plik, który zawiera informacje o tekście, napisanym na klawi
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
-.. figure:: ./img/imagestxt.png
-   :align: center
+.. ..figure:: ./img/imagestxt.png
+..   :align: center
 
-   Plik txt
+..   Plik txt
 
 Pliki danych (.csv, .xml, .json, .xls, .xlsx)
 
