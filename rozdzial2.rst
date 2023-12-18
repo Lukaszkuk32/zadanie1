@@ -57,7 +57,9 @@ Zdjęcia mające na celu promować produkty, usługi lub marki.
 
 Fotografie  mogą służyć także  jako dowody w sprawach sądowych, pomagając w dochodzeniu prawdy.
 
-Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
+Architektura i projektowanie wnętrz
+
+Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
 
 Dziennikarstwo i media
 
