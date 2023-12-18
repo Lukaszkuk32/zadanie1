@@ -76,7 +76,7 @@ Bazy danych
 
 Skupiają się na projektowaniu, implementacji i zarządzaniu bazami danych.
 
-Sztuczna inteligencja
+Sztuczna inteligencja AI
 
 Zajmuje się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
 
@@ -99,4 +99,4 @@ Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zd
 Robotyka
 Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
 
-Polega na rozwijaniu maszyn mająch przespieszyć proces wielu działań wykonywanych przez człowieka, zastępując jago rolę
+Polega na rozwijaniu maszyn mająch przespieszyć proces wielu działań wykonywanych przez człowieka, zastępując jago rolę.
