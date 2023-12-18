@@ -12,9 +12,9 @@ Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
 Plik  .html
--------------
+--------------
 
-To plik,który zawiera informacje o danych naszej strony internetowej.
+To plik, który zawiera najważniejsze informacje o danych naszej strony internetowej.
 Do jego utworzenia służą różne programy, np. Notepad czy Sphinx
 Tym plikiem możemy dzielić się z innymi, udostępniając lika do swojej strony internetowej.
 
@@ -23,7 +23,7 @@ Tym plikiem możemy dzielić się z innymi, udostępniając lika do swojej stron
    :align: center
 
 Inne pliki
---------------
+---------------
 
 W systemach komputerowych występują również inne rodzaje plików
 
