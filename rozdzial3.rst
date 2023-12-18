@@ -69,4 +69,4 @@ Służą do prezentowania dokumentów w sposób niezależny od oprogramowania, s
 Pliki muzyczne np. MP3 - zawierają informacje dźwiękowe o utworze muzycznym w skompresowanej jakości.
 
 .. figure:: ./img/pobrane.png
-:align: center
+          :align: center
