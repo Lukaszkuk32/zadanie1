@@ -16,6 +16,7 @@ Dzieki niemu możemy sobie ułatwić naszą codzienną pracę.
 
 .. figure:: ./img/OIP.jpg
    :align: center
+
 Komputer
 
 
@@ -53,6 +54,7 @@ Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wyk
 
 .. figure:: ./img/R.png
    :align: center
+
 Przykładowy algorytm
 
 Teoretyczna Informatyka
