@@ -32,8 +32,9 @@ Jednym z nich jest plik .exe
 Plik z takim skrótem pozwala na uruchomienie danego programu w komputerze, za pomocą niego możemy otworzyć to z czego chcialiśmy skorzystać.
 
 
-Plik PNG (ang. Portable Network Graphics) – rastrowy format plików graficznych oraz system bezstratnej kompresji danych graficznych.
-Format PNG znajduje różne zastosowania. Przewiduje tryby o niskiej ilości kolorów (paletowe od 2 do 256 oraz tryb skali szarości), przydatne w sytuacjach, gdy nadmiarowa informacja jest niewskazana (tj. gdy ważniejsza od subiektywnej wierności oryginałowi jest treść obrazu). Ma także tryb 48-bitowego RGB, w którym można zapisywać obraz w milionach kolorów i bez jakichkolwiek zniekształceń właściwych.
+Plik PNG (ang. Portable Network Graphics) 
+Rastrowy format plików graficznych oraz system bezstratnej kompresji danych graficznych.
+Format PNG znajduje różne zastosowania. Przewiduje tryby o niskiej ilości kolorów (paletowe od 2 do 256 oraz tryb skali szarości), przydatne w sytuacjach, gdy nadmiarowa informacja jest niewskazana . Ma także tryb 48-bitowego RGB, w którym można zapisywać obraz w milionach kolorów i bez jakichkolwiek zniekształceń właściwych.
 Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed kompresją, zwiększając jej wydajność. Jest dostępne kilka filtrów (np. różnica między sąsiednimi pikselami/liniami), które są dobierane dla każdej linii pliku z osobna.
 
 .. figure:: ./img/images.png
@@ -48,7 +49,7 @@ Charakteryzują się tym, że zajmują mało miejsca na dysku i są wygodne w ob
 
 Dokument pliku w np. Wordzie
 
-Plik  tekstowyto plik, który zawiera informacje o tekście, napisanym na klawiaturze.
+Plik  tekstowy to plik, który zawiera informacje o tekście, napisanym na klawiaturze.
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
@@ -59,7 +60,7 @@ Plik Txt
 Pliki danych (.csv, .xml, .json, .xls, .xlsx)
 Używane do przechowywania i wymiany danych w formacie, który może być łatwo przetworzony przez różne programy.
 
-Pliki obrazów dysków (.iso, .img, .vhd):
+Pliki obrazów dysków (.iso, .img, .vhd) 
 
 Zawierają kopię całego dysku lub partycji, często używane do tworzenia kopii zapasowych lub dystrybucji oprogramowania.
 
