@@ -34,9 +34,10 @@ Plik z takim skrótem pozwala na uruchomienie danego programu w komputerze, za p
 
 
 Plik PNG (ang. Portable Network Graphics) 
+
 Rastrowy format plików graficznych oraz system bezstratnej kompresji danych graficznych.
-Format PNG znajduje różne zastosowania. Przewiduje tryby o niskiej ilości kolorów (paletowe od 2 do 256 oraz tryb skali szarości), przydatne w sytuacjach, gdy nadmiarowa informacja jest niewskazana . Ma także tryb 48-bitowego RGB, w którym można zapisywać obraz w milionach kolorów i bez jakichkolwiek zniekształceń właściwych.
-Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed kompresją, zwiększając jej wydajność. Jest dostępne kilka filtrów (np. różnica między sąsiednimi pikselami/liniami), które są dobierane dla każdej linii pliku z osobna.
+Format PNG znajduje różne zastosowania. Przewiduje tryby o niskiej ilości kolorów  przydatne w sytuacjach, gdy nadmiarowa informacja jest niewskazana . Ma także tryb 48-bitowego RGB, w którym można zapisywać obraz w milionach kolorów i bez jakichkolwiek zniekształceń właściwych.
+Aplikuje proste filtry graficzne, które mogą uprościć dane obrazu przed kompresją, zwiększając jej wydajność. Jest dostępne kilka filtrów , które są dobierane dla każdej linii pliku z osobna.
 
 .. figure:: ./img/images.png
    :align: center
