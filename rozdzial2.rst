@@ -40,16 +40,20 @@ Zdjęcie naukowe
 Dalsze zastosowania zdjęć
 ------------------------------
 
-Fotografie archiwizacyjne - służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
+Fotografie archiwizacyjne 
+Służą do przechowywania w archiwach, to zdjęcia mające szczególne znaczenie dla historii, które są poddawane procesowi archiwizacji,
 dzięki czemu będzie je można zobaczyć po wielu latach.
 
 
-Fotografia reklamowa - zdjęcia mające na celu promować produkty, usługi lub marki.
+Fotografia reklamowa 
+Zdjęcia mające na celu promować produkty, usługi lub marki.
 
-Zdjęcia mogą służyć także  jako dowody w sprawach sądowych, pomagając w dochodzeniu prawdy.
+Fotografie  mogą służyć także  jako dowody w sprawach sądowych, pomagając w dochodzeniu prawdy.
 
 Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji i dokumentacji projektów architektonicznych i wnętrzarskich.
 
-Dziennikarstwo i media: Fotografia jest kluczowym elementem w przekazywaniu wiadomości i informacji. Zdjęcia w gazetach, magazynach i w Internecie pomagają ilustrować i opowiadać historie.
+Dziennikarstwo i media
 
-Służą one także to tworzenia obrazów, które są sprzedawane w celu osiągnięcia zysku 
+Fotografia jest kluczowym elementem w przekazywaniu wiadomości i informacji. Zdjęcia w gazetach, magazynach i w Internecie pomagają ilustrować i opowiadać historie.
+
+Służą one również to tworzenia obrazów, które są sprzedawane w celu osiągnięcia zysku 
