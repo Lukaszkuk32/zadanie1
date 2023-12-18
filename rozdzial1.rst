@@ -45,7 +45,7 @@ Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on b
 charakteryzuje się  dużą elastycznością i możliwością dostosowania do indywidualnych potrzeb programisty. Jest to możliwe dzięki zastosowaniu mechanizmów takich jak klasy i obiekty oraz funkcje i procedury.
 To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne.
 
-Dalsze zastosowania informatyki
+Inne zastosowania informatyki
 ---------------------------------
 
 Algorytmika jest częścią informatyki zajmującą się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
