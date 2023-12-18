@@ -56,12 +56,17 @@ Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
    :align: center
 Plik Txt
 
-Pliki danych (.csv, .xml, .json, .xls, .xlsx): Używane do przechowywania i wymiany danych w formacie, który może być łatwo przetworzony przez różne programy.
+Pliki danych (.csv, .xml, .json, .xls, .xlsx)
+Używane do przechowywania i wymiany danych w formacie, który może być łatwo przetworzony przez różne programy.
 
-Pliki obrazów dysków (.iso, .img, .vhd): Zawierają kopię całego dysku lub partycji, często używane do tworzenia kopii zapasowych lub dystrybucji oprogramowania.
+Pliki obrazów dysków (.iso, .img, .vhd):
 
-Pliki PDF (.pdf): Służą do prezentowania dokumentów w sposób niezależny od oprogramowania, sprzętu i systemów operacyjnych.
+Zawierają kopię całego dysku lub partycji, często używane do tworzenia kopii zapasowych lub dystrybucji oprogramowania.
 
-Pliki muzyczne np. MP3- zawierają informacje dźwiękowe o utworze muzycznym w skompresowanej jakości
-.. figure:: ./img/
-   :align: center
+Pliki PDF (.pdf): 
+Służą do prezentowania dokumentów w sposób niezależny od oprogramowania, sprzętu i systemów operacyjnych.
+
+Pliki muzyczne np. MP3 - zawierają informacje dźwiękowe o utworze muzycznym w skompresowanej jakości.
+
+.. figure:: ./img/pobrane.png
+:align: center
