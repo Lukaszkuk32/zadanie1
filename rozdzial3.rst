@@ -62,3 +62,6 @@ Pliki obrazów dysków (.iso, .img, .vhd): Zawierają kopię całego dysku lub p
 
 Pliki PDF (.pdf): Służą do prezentowania dokumentów w sposób niezależny od oprogramowania, sprzętu i systemów operacyjnych.
 
+Pliki muzyczne np. MP3- zawierają informacje dźwiękowe o utworze muzycznym w skompresowanej jakości
+.. figure:: ./img/
+   :align: center
