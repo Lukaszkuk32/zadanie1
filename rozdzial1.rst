@@ -1,7 +1,9 @@
 
 
+
 Informatyka i komputery
-========================
+============================
+
 
 Tworzenie dokumentow na komputerze
 W tym pliku bede tworzyl dokument tekstowy w Sphinx
@@ -47,6 +49,7 @@ Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on b
 charakteryzuje się  dużą elastycznością i możliwością dostosowania do indywidualnych potrzeb programisty. Jest to możliwe dzięki zastosowaniu mechanizmów takich jak klasy i obiekty oraz funkcje i procedury.
 To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne.
 
+
 Algotytmika
 ---------------------------------
 
@@ -57,6 +60,7 @@ Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wyk
    :align: center
 
    Przykładowy algorytm
+
 
 Teoretyczna Informatyka
 ----------------------------
@@ -69,6 +73,7 @@ Analizuje efektywność i złożoność algorytmów.
 
 Teoria informacji
 Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
+
 
 Informatyka Praktyczna
 ------------------------------
@@ -90,6 +95,7 @@ Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia s
 
    Sztuczna inteligencja AI
 
+
 Bioinformatyka
 -------------------------
 
@@ -102,3 +108,6 @@ Robotyka
 Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
 
 Polega na rozwijaniu maszyn mająch przespieszyć proces wielu działań wykonywanych przez człowieka, zastępując jago rolę.
+
+
+

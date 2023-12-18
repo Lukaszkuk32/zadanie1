@@ -4,6 +4,10 @@
    contain the root `toctree` directive.
 
 
+================
+Zadanie 1
+================
+
 
 .. toctree::
    :maxdepth: 2
