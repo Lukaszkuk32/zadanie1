@@ -67,15 +67,16 @@ Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarza
 
 Informatyka Praktyczna
 
-
 Bazy danych
-Skupia się na projektowaniu, implementacji i zarządzaniu bazami danych.
+
+Skupiają się na projektowaniu, implementacji i zarządzaniu bazami danych.
 
 Sztuczna inteligencja
 
 Zajmuje się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
 
 Machine Learning i Data Science
+
 Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia się.
 
 .. figure:: ./img/pobierz.jpg
