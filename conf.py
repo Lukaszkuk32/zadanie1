@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Lukasz'
-copyright = '2023, Kuk'
-author = 'Kuk'
-release = '2023'
+project = 'Informatyka, zdjęcia i pliki komputerowe'
+copyright = '2023, Łukasz Kukliński'
+author = 'Łukasz Kukliński'
+release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

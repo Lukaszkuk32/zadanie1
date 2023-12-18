@@ -18,10 +18,10 @@ Do jego utworzenia służą różne programy, np. Notepad czy Sphinx.
 Tym plikiem możemy dzielić się z innymi, udostępniając lika do swojej strony internetowej.
 
 
-.. figure:: ./img/pobierz.jfif
-   :align: center
+.. ..figure:: ./img/pobierz.jfif
+..   :align: center
 
-   tytul
+..   tytul
 
 Inne pliki
 ---------------
