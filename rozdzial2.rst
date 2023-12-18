@@ -32,7 +32,7 @@ Kolejny przykład zdjęć to fotografie artystyczne - mają celu wyrażenie emoc
 
 Krajobraz 
 
-Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej.
+Zdjęcia naukowe dotyczą szczególnych eksperymentów naukowych i ułatwiają badania. Takie zdjęcia pozwalają na interpretowanie rzeczy dokładniej i czytelniej. Często dotyczą różnych zjawisk w przestrzeni czy różnych oberwacji obiektów znajdujących się na niebie czy w kosmosie.
 
 .. figure:: ./img/th.jfif
    :align: center
