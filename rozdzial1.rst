@@ -57,7 +57,8 @@ Przykładowy algorytm
 
 Teoretyczna Informatyka
 
-Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
+Teoria obliczeń
+Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
 
 Teoria algorytmów i złożoności
 Analizuje efektywność i złożoność algorytmów.
@@ -92,7 +93,4 @@ Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zd
 Robotyka
 Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
 
-.. figure:: ./img/pobierzrob.jpg
-   :align: center
-
-Robotyka
+Polega na rozwijaniu maszyn mająch przespieszyć proces wielu działań wykonywanych przez człowieka, zastępując jago rolę
