@@ -28,8 +28,8 @@ Inne pliki
 
 W systemach komputerowych występują również inne rodzaje plików
 
+Plik .exe
 
-Jednym z nich jest plik .exe
 Plik z takim skrótem pozwala na uruchomienie danego programu w komputerze, za pomocą niego możemy otworzyć to z czego chcialiśmy skorzystać.
 
 
