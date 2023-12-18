@@ -51,3 +51,4 @@ Architektura i projektowanie wnętrz: Zdjęcia są wykorzystywane do prezentacji
 
 Dziennikarstwo i media: Fotografia jest kluczowym elementem w przekazywaniu wiadomości i informacji. Zdjęcia w gazetach, magazynach i w Internecie pomagają ilustrować i opowiadać historie.
 
+Służą one także to tworzenia obrazów, która można następnie sprzedawać
