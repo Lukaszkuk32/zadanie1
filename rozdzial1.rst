@@ -29,12 +29,12 @@ technicznych, ekonomicznych i socjalnych.
 
 
 
-Działy informatyki 
+Programowanie
+------------------
 
-Programowanie - związane jest z tworzeniu kodu w linijkach za pomocą języków programowania.
-
+Dotyczy  tworzenia kodu w linijkach za pomocą języków programowania.
 Spośród języków programowania możemy wyróżnić C++ i Python.
-Progamowawać można na różne sposoby, gdyż jest to bardzo szeroki dział informatyki, pozwalający tworzy mniej lub bardziej skopmplikowane projekty
+Programować można na różne sposoby, gdyż jest to bardzo szeroki dział informatyki, pozwalający tworzy mniej lub bardziej skopmplikowane projekty
 
 .. figure:: ./img/th.jpg
    :align: center
@@ -45,7 +45,8 @@ Uważany jest za język o wysokim poziomie abstrakcji, co oznacza, że jest on b
 charakteryzuje się  dużą elastycznością i możliwością dostosowania do indywidualnych potrzeb programisty. Jest to możliwe dzięki zastosowaniu mechanizmów takich jak klasy i obiekty oraz funkcje i procedury.
 To język wieloparadygmatowy. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne.
 
-
+Dalsze zastosowania informatyki
+---------------------------------
 
 Algorytmika jest częścią informatyki zajmującą się badaniem algorytmów. Programiści na wszystkich stopniach zaawansowania korzystają z algorytmów, projektując sposób działania i funkcjonalności programów czy systemów.
 Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wykonania określonego rodzaju zadań, przepis na rozwiązanie problemu, instrukcja na wykonanie czynności. Mówi nam, jakie kroki trzeba wykonać po kolei, żeby otrzymać oczekiwany efekt.
@@ -54,34 +55,41 @@ Algorytmy to skończony ciąg jasno zdefiniowanych czynności koniecznych do wyk
    :align: center
 Przykładowy algorytm
 
-Teoretyczna Informatyka:
+Teoretyczna Informatyka
+
 Teoria obliczeń: Zajmuje się fundamentalnymi aspektami obliczeń, w tym modelami obliczeniowymi jak automaty i maszyny Turinga.
 
+Teoria algorytmów i złożoności
+Analizuje efektywność i złożoność algorytmów.
 
-Teoria algorytmów i złożoności: Analizuje efektywność i złożoność algorytmów.
+Teoria informacji
+Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
 
-Teoria informacji: Zajmuje się zagadnieniami związanymi z przesyłaniem, kodowaniem, i przetwarzaniem informacji.
+Informatyka Praktyczna
 
 
-Informatyka Praktyczna:
+Bazy danych
+Skupia się na projektowaniu, implementacji i zarządzaniu bazami danych.
 
-Bazy danych: Skupia się na projektowaniu, implementacji i zarządzaniu bazami danych.
+Sztuczna inteligencja
 
-Sztuczna inteligencja: Zajmuje się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
+Zajmuje się tworzeniem systemów zdolnych do wykonywania zadań wymagających inteligencji ludzkiej.
 
-Machine Learning i Data Science: Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia się.
+Machine Learning i Data Science
+Skupiają się na analizie danych i tworzeniu modeli do automatycznego uczenia się.
 
 .. figure:: ./img/pobierz.jpg
    :align: center
 Sztuczna inteligencja AI
 
-Interdyscyplinarne Obszary:
+Bioinformatyka
+Łączy informatykę z biologią, szczególnie w analizie danych biologicznych.
 
-Bioinformatyka: Łączy informatykę z biologią, szczególnie w analizie danych biologicznych.
+Informatyka medyczna
+Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zdrowotnej.
 
-Informatyka medyczna: Skupia się na wykorzystaniu technologii informatycznych w medycynie i opiece zdrowotnej.
-
-Robotyka: Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
+Robotyka
+Łączy informatykę, inżynierię i czasami biologię, by tworzyć i programować roboty.
 
 .. figure:: ./img/pobierzrob.jpg
    :align: center
