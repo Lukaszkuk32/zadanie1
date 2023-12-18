@@ -11,10 +11,6 @@ Pliki tekstowy to plik, który zawiera informacje o tekście, napisanym na klawi
 Występują one z skrótem .txt
 Możemy je odnaleźć w np. Notepadzie czy Notatniku Windows
 
-
-
-
-
 Plik  .html
 -------------
 
@@ -65,3 +61,4 @@ Pliki danych (.csv, .xml, .json, .xls, .xlsx): Używane do przechowywania i wymi
 Pliki obrazów dysków (.iso, .img, .vhd): Zawierają kopię całego dysku lub partycji, często używane do tworzenia kopii zapasowych lub dystrybucji oprogramowania.
 
 Pliki PDF (.pdf): Służą do prezentowania dokumentów w sposób niezależny od oprogramowania, sprzętu i systemów operacyjnych.
+
