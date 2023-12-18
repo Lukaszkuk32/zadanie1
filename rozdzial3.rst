@@ -15,7 +15,8 @@ Plik  .html
 --------------
 
 To plik, który zawiera najważniejsze informacje o danych naszej strony internetowej.
-Do jego utworzenia służą różne programy, np. Notepad czy Sphinx
+Do jego utworzenia służą różne programy, np. Notepad czy Sphinx.
+
 Tym plikiem możemy dzielić się z innymi, udostępniając lika do swojej strony internetowej.
 
 
